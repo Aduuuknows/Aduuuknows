@@ -45,7 +45,7 @@
 ```yaml
 ╔══════════════════════════════════════════════════╗
   name      :  Adarsh Kumar
-  handle    :  @Adarshukumar
+  handle    :  @Aduuuknows
   role      :  AI Developer & ML Engineer
   instagram :  adarshu.io
   location  :  India  🇮🇳
