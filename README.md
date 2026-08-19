@@ -20,14 +20,14 @@
 
 <!-- ════════════════════  VISITOR BADGES  ════════════════════ -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adarshukumar&label=Profile+Views&color=302b63&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Aduuuknows&label=Profile+Views&color=302b63&style=for-the-badge" alt="profile views"/>
    
-  <a href="https://github.com/Adarshukumar?tab=followers">
-    <img src="https://img.shields.io/github/followers/Adarshukumar?label=Followers&style=for-the-badge&color=0f0c29&logo=github&logoColor=white" alt="followers"/>
+  <a href="https://github.com/Aduuuknows?tab=followers">
+    <img src="https://img.shields.io/github/followers/Aduuuknows?label=Followers&style=for-the-badge&color=0f0c29&logo=github&logoColor=white" alt="followers"/>
   </a>
    
-  <a href="https://github.com/Adarshukumar">
-    <img src="https://img.shields.io/github/stars/Adarshukumar?label=Total+Stars&style=for-the-badge&color=302b63&logo=github&logoColor=white" alt="stars"/>
+  <a href="https://github.com/Aduuuknows">
+    <img src="https://img.shields.io/github/stars/Aduuuknows?label=Total+Stars&style=for-the-badge&color=302b63&logo=github&logoColor=white" alt="stars"/>
   </a>
 </div>
 
@@ -96,12 +96,12 @@ motto      : "Ship it, learn from it, do it better 🚀"
       src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png"/>
   </a>   
 
-  <a href="https://open.spotify.com/user/Adarshukumar" title="Spotify">
+  <a href="https://open.spotify.com/user/Aduuuknows" title="Spotify">
     <img alt="Spotify" height="40"
       src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png"/>
   </a>   
 
-  <a href="https://github.com/Adarshukumar" title="GitHub">
+  <a href="https://github.com/Aduuuknows" title="GitHub">
     <img alt="GitHub" height="40"
       src="https://images.icon-icons.com/2428/PNG/512/github_black_logo_icon_147128.png"/>
   </a>   
@@ -111,7 +111,7 @@ motto      : "Ship it, learn from it, do it better 🚀"
       src="https://static.xx.fbcdn.net/assets/?set=help_center_about_page_illustrations&name=desktop-instagram-gradient-logo&density=1"/>
   </a>   
 
-  <a href="https://x.com/Adarshukumar07" title="X / Twitter">
+  <a href="https://x.com/Aduuuknows07" title="X / Twitter">
     <img alt="X Twitter" height="52"
       src="https://static.vecteezy.com/system/resources/thumbnails/042/148/611/small/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png"/>
   </a>
@@ -120,17 +120,17 @@ motto      : "Ship it, learn from it, do it better 🚀"
 
 <p align="center">
 
-  <a href="https://youtube.com/@Adarshukumar" title="YouTube">
+  <a href="https://youtube.com/@Aduuuknows" title="YouTube">
     <img alt="YouTube" height="30"
       src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"/>
   </a>   
 
-  <a href="https://discord.com/users/Adarshukumar" title="Discord">
+  <a href="https://discord.com/users/Aduuuknows" title="Discord">
     <img alt="Discord" height="40"
       src="https://static.vecteezy.com/system/resources/previews/023/986/880/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png"/>
   </a>   
 
-  <a href="mailto:adarshukumar@gmail.com" title="Gmail">
+  <a href="mailto:Aduuuknows@gmail.com" title="Gmail">
     <img alt="Gmail" height="27"
       src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>
   </a>   
@@ -145,7 +145,7 @@ motto      : "Ship it, learn from it, do it better 🚀"
       src="https://static.vecteezy.com/system/resources/previews/070/730/261/non_2x/linktree-logo-in-transparent-background-free-png.png"/>
   </a>   
 
-  <a href="https://Adarshukumar.itch.io" title="Itch.io">
+  <a href="https://Aduuuknows.itch.io" title="Itch.io">
     <img alt="Itch.io" height="35"
       src="https://brandlogos.net/wp-content/uploads/2025/12/itch.io-logo_brandlogos.net_bhtjr-512x459.png"/>
   </a>
@@ -280,9 +280,9 @@ motto      : "Ship it, learn from it, do it better 🚀"
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adarshukumar/Adarshukumar/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adarshukumar/Adarshukumar/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Adarshukumar/Adarshukumar/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aduuuknows/Aduuuknows/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aduuuknows/Aduuuknows/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Aduuuknows/Aduuuknows/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -349,7 +349,7 @@ class AdarshKumar:
 
     def __init__(self):
         self.name        = "Adarsh Kumar"
-        self.handle      = "@Adarshukumar"
+        self.handle      = "@Aduuuknows"
         self.role        = "AI Developer & ML Engineer"
         self.location    = "India 🇮🇳"
         self.instagram   = "instagram.com/adarshu.io"
@@ -400,7 +400,7 @@ for item in me.available_for():
 
 <br/>
 
-<a href="mailto:adarshukumar@gmail.com">
+<a href="mailto:Aduuuknows@gmail.com">
   <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a> 
 <a href="https://instagram.com/adarshu.io">
@@ -409,7 +409,7 @@ for item in me.available_for():
 <a href="https://linkedin.com/in/adarshu07">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a> 
-<a href="https://github.com/Adarshukumar">
+<a href="https://github.com/Aduuuknows">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -424,7 +424,7 @@ for item in me.available_for():
 
 <div align="center">
   <sub>⭐   Star my repos if you find them useful  ·  Made with 🖤 by
-  <a href="https://github.com/Adarshukumar">Adarsh Kumar</a></sub>
+  <a href="https://github.com/Aduuuknows">Adarsh Kumar</a></sub>
   <br/><br/>
   <img src="https://img.shields.io/badge/Made%20with-Python%20%26%20%E2%9D%A4%EF%B8%8F-302b63?style=flat-square&logo=python&logoColor=white"/>
    
